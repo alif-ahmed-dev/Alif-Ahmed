@@ -1,0 +1,6 @@
+{
+  "name": "ALIF AHMED",
+  "description": "Interactive 3D character web experience for ALIF AHMED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
